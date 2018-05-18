@@ -8,10 +8,15 @@ name = "pypi"
 [packages]
 
 tensorflow-gpu = "*"
+librosa = "*"
 
 
 [dev-packages]
 
+pylint = "*"
+pyre-check = "*"
+jupyter = "*"
+matplotlib = "*"
 
 
 [requires]

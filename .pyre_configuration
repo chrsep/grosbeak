@@ -1,5 +1,5 @@
 {
-  "binary": "/home/chris/.local/bin/pyre.bin",
+  "binary": "/home/chris/.virtualenvs/grosbeak-3OVvKLNy/bin/pyre.bin",
   "source_directories": [
     "."
   ],

@@ -1,5 +1,4 @@
 .idea
 .vscode
 .pyre
-processed_dataset
-raw_dataset
+*dataset
