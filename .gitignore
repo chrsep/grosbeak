@@ -1,4 +1,8 @@
 .idea
 .vscode
-.pyre
-*dataset
+dataset
+!raw_dataset/README.md
+raw_dataset/*
+!inference_input/README.md
+inference_input/*
+inference_output

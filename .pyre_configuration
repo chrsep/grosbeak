@@ -1,7 +1,0 @@
-{
-  "binary": "/home/chris/.virtualenvs/grosbeak-3OVvKLNy/bin/pyre.bin",
-  "source_directories": [
-    "."
-  ],
-  "typeshed": "/home/chris/.local/lib/pyre_check/typeshed/stdlib/"
-}
